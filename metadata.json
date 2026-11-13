@@ -1,0 +1,8 @@
+{
+  "name": "Petualangan Satuan Berat",
+  "description": "Media pembelajaran interaktif Matematika kelas 3 SD untuk mengenal satuan berat baku (kilogram dan gram), alat ukur timbangan, perbandingan berat, 5 game edukasi, dan kuis interaktif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
